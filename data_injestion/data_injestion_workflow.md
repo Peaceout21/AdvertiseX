@@ -52,3 +52,6 @@ data-injestion/
         └── clickConversion.avsc
 
 
+
+
+![Alt text](image.png)
