@@ -7,5 +7,5 @@ def process_csv(file_path):
             # Process each row
             print(row)
 
-# Example usage
+#Sample usage
 process_csv('path/to/your/csv/file.csv')

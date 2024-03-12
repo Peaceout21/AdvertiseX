@@ -53,4 +53,4 @@ data-injestion/
 
 
 
-![System Architecture](images/data_injestion_archi "System Architecture Diagram")
+![System Architecture](images/data_injestion_archi.png "System Architecture Diagram")
